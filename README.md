@@ -1,6 +1,7 @@
 ## about me ⊹₊ ⋆
-i do ~~random~~ stuff like playing around with *syntaxes*.
-> how more random could it get? i'm a writer. on github. *yes*.
+> computer science / maths student - first year
+> I code mostly in Python, HTML, CSS and JavaScript
+> I'm planning to learn C+ or Java in the near future
 
 ## project list ✧༺
 first-project-2023 -> very small html/css project made in high school <br/>
