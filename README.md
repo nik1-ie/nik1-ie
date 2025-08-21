@@ -1,5 +1,5 @@
 ## about me ⊹₊ ⋆
-> computer science / maths student - first year <br/>
+> computer science / maths student - second year <br/>
 > I code mostly in Python, HTML, CSS and JavaScript <br/>
 
 ## project list ✧༺
