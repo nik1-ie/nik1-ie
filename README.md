@@ -3,7 +3,7 @@
 > computer science - second year <br/>
 > I code mostly in Python, HTML, CSS and JavaScript - now learning C ! <br/>
 
-### project list ✧༺
+### projects ✧༺
 [`Rolit`](https://github.com/nik1-ie/rolit-L1S1) -> Python game made in group for the first semester of computer science - playable, all important notices are neatly documented! <br/>
 [`MapMaker`](https://github.com/nik1-ie/mapmaker) -> Another Python game, full of customisable maps and fun made for the second semester of computer science, also in groups! <br>
 
