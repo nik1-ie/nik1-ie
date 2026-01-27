@@ -9,7 +9,7 @@ I've also developed, in groups, [`Occurences in a text file`](https://github.com
 A bigger scale project would be [`Cinefan`](https://github.com/Stephany-Santos/Projet-Cinefan), which is a group project reuniting Python, HTML and SQL. Given a client's request, we had to create from scratch an appropriate database and build a website out of it, using libraries like Flask and Psyopg2.<br><br>
 Alongside my unversity projects, I am also working on a web portfolio to, hopefully, showcase my skills in various languages. Stay tuned :) <br>
 ### find me on ⭑.ᐟ
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/niekita-joseph/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/nik1-ie) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/niekita-joseph/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/21057140/nik1-ie) 
 
 
 *ੈ✩‧₊˚
